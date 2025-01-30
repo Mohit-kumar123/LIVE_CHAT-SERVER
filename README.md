@@ -1,4 +1,2 @@
-you need to instal the express , socket.io in your system using npm(node package manager) also you can only bring out the code of html file,client.js, and index.js 
-and then install the that two packages and the run the server.js file and open it in your local host and you are good to go.
-
+Integrated the OpenAI API to enable AI-powered image generation, providing users with dynamic creative capabilities. Implemented Cloudinary for secure image storage and sharing, ensuring scalability and data safety. Designed an intuitive front-end interface using React.js and Tailwind CSS, improving user experience and accessibility.
 ![Image](3.png)
