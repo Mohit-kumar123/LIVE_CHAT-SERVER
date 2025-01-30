@@ -1,2 +1,2 @@
-Integrated the OpenAI API to enable AI-powered image generation, providing users with dynamic creative capabilities. Implemented Cloudinary for secure image storage and sharing, ensuring scalability and data safety. Designed an intuitive front-end interface using React.js and Tailwind CSS, improving user experience and accessibility.
+Developed a real-time chat application using Socket.IO and Node.js, ensuring high uptime for smooth communication. Integrated MongoDB to maintain persistent chat history, enhancing user engagement and retention by 30%. The project utilized HTML and CSS for a responsive and user-friendly interface.
 ![Image](3.png)
